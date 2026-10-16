@@ -1,0 +1,13 @@
+name: stat159-hw2
+
+channels:
+  - conda-forge
+
+dependencies:
+  - r-base
+  - r-ggplot2
+  - r-jsonlite
+  - quarto
+  - make
+  - curl
+  - texlive-core

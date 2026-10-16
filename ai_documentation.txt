@@ -1,0 +1,29 @@
+AI Documentation
+
+Tool: ChatGPT, OpenAI, GPT-6
+Accessed: October 2026
+
+How I used AI: I used ChatGPT as a learning and coding assistant while completing Homework 2. I mainly used it when I needed help understanding the assignment instructions, remembering code, checking my work, or fixing errors.
+
+1. I asked ChatGPT for help understanding some of the homework instructions. I also asked for help understanding how to use the original JavaScript file.
+
+2. While cleaning the data in R, I had trouble converting the JavaScript data into a dataset. I received different errors when trying to extract the match information and calculate the ages of Serena and her opponents. I shared screenshots of the errors and asked ChatGPT to explain what went wrong and guide me on how to fix them.
+
+Example prompts included:
+- "What happened here?"
+- "Why did my code shows an error? please guide me to solve the error."
+
+3. I used ChatGPT to help me check the scatter plot I created using ggplot2. I reviewed the graph to make sure the data, labels, and colors were correct.
+
+Example prompts included:
+- "Please double check if my scatter plot is right"
+- "Are my data correct"
+
+4. I asked ChatGPT for help understanding terminal commands and setting up my README, Makefile, and environment.yml. I was not very familiar with some of these steps, so I asked for explanations. I also had a permission denied error when running `make all`, so I shared screenshots and asked ChatGPT to help me fix it.
+
+Example prompts included:
+- "Why am I getting an error when I run make all?"
+
+Human Verification: I reviewed the suggestions from ChatGPT before using them in my homework. I ran the R code and terminal commands myself, checked the cleaned data, and reviewed the scatter plot and generated reports. When I received errors, I made changes and ran the commands again to check whether they worked. I take responsibility for the final code, graph, report, and project files.
+
+Data Protection: I did not provide confidential research data or other protected research information to ChatGPT. The tennis match data used for this homework came from Tennis Abstract, which is a publicly available source.
